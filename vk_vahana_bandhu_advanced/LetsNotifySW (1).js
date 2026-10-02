@@ -1,1 +1,0 @@
-importScripts("https://cdn.letsnotify.in//ServiceWorker.js")
